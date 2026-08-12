@@ -1,0 +1,21 @@
+.border{
+    
+    background-color: burlywood;
+    height: 500px;
+    width: 700px;
+}
+.margin{
+    background-color: plum;
+    height: 400px;
+    width: 600px;
+    box-sizing: border-box;
+    padding: 50;
+
+}
+.dogs{
+    background-color: blueviolet;
+    height:50px;
+    position: fixed;
+    bottom:00px;
+
+}
